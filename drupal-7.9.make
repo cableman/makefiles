@@ -13,11 +13,15 @@ projects[coder][version] = "1.0"
 projects[context][subdir] = "contrib"
 projects[context][version] = "3.0-beta2"
 
-projects[ctools][subdir] = "contrib"
-projects[ctools][version] = "1.0-rc1"
+projects[context_filter][subdir] = "contrib"
+projects[context_filter][version] = "1.x-dev"
+
+projects[context_inline_editor][subdir] = "contrib"
+projects[context_inline_editor][version] = "1.x-dev"
+projects[context_inline_editor][patch][] = "http://drupal.org/files/filter_context_1327672-4.patch"
 
 projects[ctools][subdir] = "contrib"
-projects[ctools][version] = "1.0-alpha4"
+projects[ctools][version] = "1.0-rc1"
 
 projects[content_access][subdir] = "contrib"
 projects[content_access][version] = "1.2-beta1"
@@ -45,6 +49,9 @@ projects[features][version] = "1.0-beta4"
 
 projects[globalredirect][subdir] = "contrib"
 projects[globalredirect][version] = "1.3"
+
+projects[google_analytics][subdir] = "contrib"
+projects[google_analytics][version] = "1.2"
 
 projects[media][subdir] = "contrib"
 projects[media][version] = "1.0-rc2"
@@ -85,8 +92,8 @@ projects[panels][version] = "3.0-alpha3"
 projects[redirect][subdir] = "contrib"
 projects[redirect][version] = "1.0-beta3"
 
-projects[syntaxhighlighter][subdir] = "contrib"
-projects[syntaxhighlighter][version] = "1.1"
+projects[securepages][subdir] = "contrib"
+projects[securepages][version] = "1.x-dev"
 
 projects[token][subdir] = "contrib"
 projects[token][version] = "1.0-beta7"
