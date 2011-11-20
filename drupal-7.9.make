@@ -30,7 +30,7 @@ projects[date][subdir] = "contrib"
 projects[date][version] = "2.0-alpha4"
 
 projects[delta][subdir] = "contrib"
-projects[delta][version] = "3.0-beta8"
+projects[delta][version] = "3.0-beta9"
 
 projects[danishstemmer][subdir] = "contrib"
 projects[danishstemmer][version] = "1.0"
@@ -39,7 +39,7 @@ projects[diff][subdir] = "contrib"
 projects[diff][version] = "2.0"
 
 projects[dynamic_background][subdir] = "contrib"
-projects[dynamic_background][version] = "1.7"
+projects[dynamic_background][version] = "1.8"
 
 projects[facetapi][subdir] = "contrib"
 projects[facetapi][version] = "1.0-beta6"
@@ -99,7 +99,7 @@ projects[token][subdir] = "contrib"
 projects[token][version] = "1.0-beta7"
 
 projects[views][subdir] = "contrib"
-projects[views][version] = "3.0-rc1"
+projects[views][version] = "3.0-rc3"
 
 projects[workbench][subdir] = "contrib"
 projects[workbench][version] = "1.1"
