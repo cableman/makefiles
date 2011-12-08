@@ -5,16 +5,16 @@ projects[drupal][version] = "7.9"
 
 ; Modules
 projects[apachesolr][subdir] = "contrib"
-projects[apachesolr][version] = "1.0-beta8"
+projects[apachesolr][version] = "1.0-beta11"
 
 projects[coder][subdir] = "contrib"
 projects[coder][version] = "1.0"
 
 projects[context][subdir] = "contrib"
-projects[context][version] = "3.0-beta2"
+projects[context][version] = "3.0-beta3"
 
 projects[context_filter][subdir] = "contrib"
-projects[context_filter][version] = "1.x-dev"
+projects[context_filter][version] = "1.0"
 
 projects[context_inline_editor][subdir] = "contrib"
 projects[context_inline_editor][version] = "1.x-dev"
@@ -75,7 +75,7 @@ projects[link][subdir] = "contrib"
 projects[link][version] = "1.0"
 
 projects[nodespotbox][subdir] = "contrib"
-projects[nodespotbox][version] = "1.3"
+projects[nodespotbox][version] = "1.4"
 
 projects[omega_tools][subdir] = "contrib"
 projects[omega_tools][version] = "3.0-rc3"
