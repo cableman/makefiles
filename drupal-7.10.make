@@ -56,6 +56,12 @@ projects[google_analytics][version] = "1.2"
 projects[media][subdir] = "contrib"
 projects[media][version] = "1.0-rc2"
 
+projects[migrate][subdir] = "contrib"
+projects[migrate][version] = "2.2"
+
+projects[migrate_extras][subdir] = "contrib"
+projects[migrate_extras][version] = "2.2"
+
 projects[menu_block][subdir] = "contrib"
 projects[menu_block][version] = "2.2"
 
