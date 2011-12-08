@@ -11,7 +11,7 @@ projects[coder][subdir] = "contrib"
 projects[coder][version] = "1.0"
 
 projects[context][subdir] = "contrib"
-projects[context][version] = "3.0-beta3"
+projects[context][version] = "3.0-beta2"
 
 projects[context_filter][subdir] = "contrib"
 projects[context_filter][version] = "1.0"
