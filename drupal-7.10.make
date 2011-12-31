@@ -28,7 +28,7 @@ projects[content_access][subdir] = "contrib"
 projects[content_access][version] = "1.2-beta1"
 
 projects[date][subdir] = "contrib"
-projects[date][version] = "2.0-alpha4"
+projects[date][version] = "2.0-rc1"
 
 projects[delta][subdir] = "contrib"
 projects[delta][version] = "3.0-beta9"
@@ -46,7 +46,7 @@ projects[facetapi][subdir] = "contrib"
 projects[facetapi][version] = "1.0-beta6"
 
 projects[features][subdir] = "contrib"
-projects[features][version] = "1.0-beta4"
+projects[features][version] = "1.0-beta5"
 
 projects[globalredirect][subdir] = "contrib"
 projects[globalredirect][version] = "1.3"
@@ -106,7 +106,7 @@ projects[token][subdir] = "contrib"
 projects[token][version] = "1.0-beta7"
 
 projects[views][subdir] = "contrib"
-projects[views][version] = "3.0-rc3"
+projects[views][version] = "3.0"
 
 projects[workbench][subdir] = "contrib"
 projects[workbench][version] = "1.1"
