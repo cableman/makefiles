@@ -46,7 +46,7 @@ projects[facetapi][subdir] = "contrib"
 projects[facetapi][version] = "1.0-beta6"
 
 projects[features][subdir] = "contrib"
-projects[features][version] = "1.0-beta5"
+projects[features][version] = "1.0-beta6"
 
 projects[globalredirect][subdir] = "contrib"
 projects[globalredirect][version] = "1.3"
@@ -106,7 +106,7 @@ projects[token][subdir] = "contrib"
 projects[token][version] = "1.0-beta7"
 
 projects[views][subdir] = "contrib"
-projects[views][version] = "3.0"
+projects[views][version] = "3.1"
 
 projects[workbench][subdir] = "contrib"
 projects[workbench][version] = "1.1"
