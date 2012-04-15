@@ -21,13 +21,13 @@ projects[context_inline_editor][version] = "1.x-dev"
 projects[context_inline_editor][patch][] = "http://drupal.org/files/filter_context_1327672-5.patch"
 
 projects[ctools][subdir] = "contrib"
-projects[ctools][version] = "1.0-rc1"
+projects[ctools][version] = "1.0"
 
 projects[content_access][subdir] = "contrib"
 projects[content_access][version] = "1.2-beta1"
 
 projects[date][subdir] = "contrib"
-projects[date][version] = "2.1"
+projects[date][version] = "2.3"
 
 projects[delta][subdir] = "contrib"
 projects[delta][version] = "3.0-beta9"
@@ -42,10 +42,10 @@ projects[dynamic_background][subdir] = "contrib"
 projects[dynamic_background][version] = "1.9"
 
 projects[facetapi][subdir] = "contrib"
-projects[facetapi][version] = "1.0-rc2"
+projects[facetapi][version] = "1.0-rc4"
 
 projects[features][subdir] = "contrib"
-projects[features][version] = "1.0-beta6"
+projects[features][version] = "1.0-rc2"
 
 projects[globalredirect][subdir] = "contrib"
 projects[globalredirect][version] = "1.4"
@@ -54,7 +54,7 @@ projects[google_analytics][subdir] = "contrib"
 projects[google_analytics][version] = "1.2"
 
 projects[media][subdir] = "contrib"
-projects[media][version] = "1.0-rc3"
+projects[media][version] = "1.0"
 
 projects[migrate][subdir] = "contrib"
 projects[migrate][version] = "2.2"
@@ -75,7 +75,7 @@ projects[l10n_update][subdir] = "contrib"
 projects[l10n_update][version] = "1.0-beta3"
 
 projects[libraries][subdir] = "contrib"
-projects[libraries][version] = "1.0"
+projects[libraries][version] = "1.0-alpha2"
 
 projects[link][subdir] = "contrib"
 projects[link][version] = "1.0"
@@ -102,7 +102,7 @@ projects[securepages][subdir] = "contrib"
 projects[securepages][version] = "1.x-dev"
 
 projects[token][subdir] = "contrib"
-projects[token][version] = "1.0-rc1"
+projects[token][version] = "1.0"
 
 projects[views][subdir] = "contrib"
 projects[views][version] = "3.3"
