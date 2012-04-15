@@ -75,7 +75,7 @@ projects[l10n_update][subdir] = "contrib"
 projects[l10n_update][version] = "1.0-beta3"
 
 projects[libraries][subdir] = "contrib"
-projects[libraries][version] = "1.0-alpha2"
+projects[libraries][version] = "1.0"
 
 projects[link][subdir] = "contrib"
 projects[link][version] = "1.0"
