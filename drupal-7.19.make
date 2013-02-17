@@ -87,7 +87,7 @@ projects[libraries][subdir] = "contrib"
 projects[libraries][version] = "2.0"
 
 projects[link][subdir] = "contrib"
-projects[link][version] = "1.0"
+projects[link][version] = "1.1"
 
 projects[nodespotbox][subdir] = "contrib"
 projects[nodespotbox][version] = "1.7"
@@ -105,7 +105,7 @@ projects[pathauto][subdir] = "contrib"
 projects[pathauto][version] = "1.2"
 
 projects[panels][subdir] = "contrib"
-projects[panels][version] = "3.0"
+projects[panels][version] = "3.3"
 
 projects[redirect][subdir] = "contrib"
 projects[redirect][version] = "1.0-beta4"
