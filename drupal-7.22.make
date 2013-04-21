@@ -61,6 +61,9 @@ projects[google_analytics][version] = "1.3"
 projects[media][subdir] = "contrib"
 projects[media][version] = "2.0-unstable7"
 
+projects[file_entity][subdir] = "contrib"
+projects[file_entity][version] = "2.0-unstable7"
+
 projects[migrate][subdir] = "contrib"
 projects[migrate][version] = "2.5"
 
