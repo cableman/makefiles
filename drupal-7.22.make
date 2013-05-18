@@ -41,7 +41,7 @@ projects[diff][subdir] = "contrib"
 projects[diff][version] = "3.2"
 
 projects[dynamic_background][subdir] = "contrib"
-projects[dynamic_background][version] = "1.10"
+projects[dynamic_background][version] = "1.11"
 
 projects[facetapi][subdir] = "contrib"
 projects[facetapi][version] = "1.3"
