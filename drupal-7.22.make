@@ -7,7 +7,7 @@ api = 2
 projects[drupal][version] = "7.22"
 
 projects[apachesolr][subdir] = "contrib"
-projects[apachesolr][version] = "1.2"
+projects[apachesolr][version] = "1.3"
 
 projects[coder][subdir] = "contrib"
 projects[coder][version] = "1.2"
@@ -43,14 +43,20 @@ projects[diff][version] = "3.2"
 projects[dynamic_background][subdir] = "contrib"
 projects[dynamic_background][version] = "1.11"
 
+projects[better_formats][subdir] = "contrib"
+projects[better_formats][version] = "1.0-beta1"
+
 projects[facetapi][subdir] = "contrib"
 projects[facetapi][version] = "1.3"
 
 projects[features][subdir] = "contrib"
-projects[features][version] = "1.0"
+projects[features][version] = "2.0-rc1"
 
 projects[file_entity][subdir] = "contrib"
 projects[file_entity][version] = "2.0-unstable7"
+
+projects[fontyourface][subdir] = "contrib"
+projects[fontyourface][version] = "2.8"
 
 projects[globalredirect][subdir] = "contrib"
 projects[globalredirect][version] = "1.5"
@@ -82,8 +88,11 @@ projects[insert][version] = "1.3"
 projects[job_scheduler][subdir] = "contrib"
 projects[job_scheduler][version] = "2.0-alpha3"
 
-projects[l10n_update][subdir] = "contrib"
-projects[l10n_update][version] = "1.0-beta3"
+projects[job_scheduler][subdir] = "contrib"
+projects[job_scheduler][version] = "2.0-alpha3"
+
+projects[jquery_update][subdir] = "contrib"
+projects[jquery_update][version] = "2.3"
 
 projects[libraries][subdir] = "contrib"
 projects[libraries][version] = "2.1"
@@ -93,6 +102,12 @@ projects[link][version] = "1.1"
 
 projects[nodespotbox][subdir] = "contrib"
 projects[nodespotbox][version] = "1.7"
+
+projects[markdown][subdir] = "contrib"
+projects[markdown][version] = "1.1"
+
+projects[module_filter][subdir] = "contrib"
+projects[module_filter][version] = "1.7"
 
 projects[omega_tools][subdir] = "contrib"
 projects[omega_tools][version] = "3.0-rc4"
