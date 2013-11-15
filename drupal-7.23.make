@@ -53,7 +53,7 @@ projects[features][subdir] = "contrib"
 projects[features][version] = "2.0"
 
 projects[file_entity][subdir] = "contrib"
-projects[file_entity][version] = "2.0-alpha3"
+projects[file_entity][version] = "2.0-unstable7"
 
 projects[fontyourface][subdir] = "contrib"
 projects[fontyourface][version] = "2.8"
@@ -65,7 +65,7 @@ projects[google_analytics][subdir] = "contrib"
 projects[google_analytics][version] = "1.4"
 
 projects[media][subdir] = "contrib"
-projects[media][version] = "2.0-alpha3"
+projects[media][version] = "2.0-unstable7"
 
 projects[migrate][subdir] = "contrib"
 projects[migrate][version] = "2.5"
