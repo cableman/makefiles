@@ -13,16 +13,16 @@ projects[coder][subdir] = "contrib"
 projects[coder][version] = "1.2"
 
 projects[site_verify][subdir] = "contrib"
-projects[site_verify][version] = "1.0"
+projects[site_verify][version] = "1.1"
 
 projects[xmlsitemap][subdir] = "contrib"
-projects[xmlsitemap][version] = "2.0-rc2"
+projects[xmlsitemap][version] = "2.0"
 
 projects[metatags_quick][subdir] = "contrib"
 projects[metatags_quick][version] = "2.7"
 
 projects[context][subdir] = "contrib"
-projects[context][version] = "3.1"
+projects[context][version] = "3.2"
 
 projects[context_filter][subdir] = "contrib"
 projects[context_filter][version] = "1.1"
@@ -32,7 +32,7 @@ projects[context_inline_editor][version] = "1.x-dev"
 projects[context_inline_editor][patch][0] = "http://drupal.org/files/filter_context_1327672-5.patch"
 
 projects[ctools][subdir] = "contrib"
-projects[ctools][version] = "1.3"
+projects[ctools][version] = "1.4"
 
 projects[content_access][subdir] = "contrib"
 projects[content_access][version] = "1.2-beta2"
@@ -89,7 +89,7 @@ projects[module_filter][subdir] = "contrib"
 projects[module_filter][version] = "1.8"
 
 projects[mollom][subdir] = "contrib"
-projects[mollom][version] = "2.8"
+projects[mollom][version] = "2.9"
 
 projects[insert][subdir] = "contrib"
 projects[insert][version] = "1.3"
@@ -98,10 +98,10 @@ projects[job_scheduler][subdir] = "contrib"
 projects[job_scheduler][version] = "2.0-alpha3"
 
 projects[jquery_update][subdir] = "contrib"
-projects[jquery_update][version] = "2.3"
+projects[jquery_update][version] = "2.4"
 
 projects[libraries][subdir] = "contrib"
-projects[libraries][version] = "2.1"
+projects[libraries][version] = "2.2"
 
 projects[link][subdir] = "contrib"
 projects[link][version] = "1.2"
@@ -128,10 +128,10 @@ projects[pathauto][subdir] = "contrib"
 projects[pathauto][version] = "1.2"
 
 projects[persona][subdir] = "contrib"
-projects[persona][version] = "1.15"
+projects[persona][version] = "1.16"
 
 projects[panels][subdir] = "contrib"
-projects[panels][version] = "3.3"
+projects[panels][version] = "3.4"
 
 projects[redirect][subdir] = "contrib"
 projects[redirect][version] = "1.0-rc1"
